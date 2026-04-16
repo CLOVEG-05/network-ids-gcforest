@@ -1,0 +1,19 @@
+# 核心依赖
+numpy
+joblib
+scikit-learn>=0.18.1
+imbalanced-learn
+matplotlib
+seaborn
+pandas
+keras
+tensorflow
+xgboost
+psutil
+simplejson
+argparse
+
+# 其他工具
+openpyxl
+python-dateutil
+pytz
